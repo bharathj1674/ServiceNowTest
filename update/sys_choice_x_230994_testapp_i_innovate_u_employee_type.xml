@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_employee_type" table="x_230994_testapp_i_innovate" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_employee_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Direct Contract</label>
+            <language>en</language>
+            <name>x_230994_testapp_i_innovate</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-23 08:11:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d38bc53437521300bba2097973990e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:11:48</sys_updated_on>
+            <value>direct contract</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_employee_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Permanent</label>
+            <language>en</language>
+            <name>x_230994_testapp_i_innovate</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-23 08:11:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>578bc53437521300bba2097973990e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:11:48</sys_updated_on>
+            <value>permanent</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_employee_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agency Contract</label>
+            <language>en</language>
+            <name>x_230994_testapp_i_innovate</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-23 08:11:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d38bc53437521300bba2097973990e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:11:48</sys_updated_on>
+            <value>agency contract</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_employee_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contract to Hire</label>
+            <language>en</language>
+            <name>x_230994_testapp_i_innovate</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-23 08:11:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>538bc53437521300bba2097973990e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:11:48</sys_updated_on>
+            <value>contract to hire</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_employee_type</element>
+            <name>x_230994_testapp_i_innovate</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-23 08:11:48</sys_created_on>
+            <sys_id>138bc53437521300bba2097973990e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_employee_type</sys_name>
+            <sys_package display_value="TestApp_Innovate" source="x_230994_testapp_i">365885e037d21300bba2097973990e36</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TestApp_Innovate">365885e037d21300bba2097973990e36</sys_scope>
+            <sys_update_name>sys_choice_x_230994_testapp_i_innovate_u_employee_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:11:48</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
